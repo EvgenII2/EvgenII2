@@ -33,11 +33,7 @@ TODO Portfolio
 </p>
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=EvgenII2.EvgenII2" alt="visitor badge"/>
 </p>
 
 -----
-
-Credits: [BRdhanani](https://github.com/brdhanani)
-
-Last Edited on: 29/03/2021
