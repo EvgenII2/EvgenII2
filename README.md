@@ -23,7 +23,7 @@ TODO Portfolio
 [![C#](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=C#)]
 [![Java](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=Java)]
 
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)]
+![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)]
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)](
 
