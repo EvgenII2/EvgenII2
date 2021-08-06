@@ -17,6 +17,7 @@ TODO Portfolio
 * email: genja1988@inbox.ru
 * telegram: @EvgenII221
 * instagram: evgeniii
+* facebook: facebook.com/evgeniy.lysenko.7
 
 ### 👨‍💻 Languages and Tools (Технологии)
 
