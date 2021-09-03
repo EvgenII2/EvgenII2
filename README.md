@@ -37,7 +37,7 @@ TODO Portfolio
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![C#](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=C#)
-![Java](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-FCA121?style=flat&logo=Java)
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
