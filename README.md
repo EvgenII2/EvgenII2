@@ -41,7 +41,7 @@ TODO Portfolio
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=evgenii2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="EvgenII2's Github Stats">
