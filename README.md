@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
-![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=Vue.js)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
