@@ -8,7 +8,6 @@
 ### Контакты
 * email: genja1988@inbox.ru
 * telegram: @EvgenII221
-* instagram: evgeniii
 * facebook: facebook.com/evgeniy.lysenko.7
 
 ### 👨‍💻 Технологии
