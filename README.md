@@ -4,7 +4,8 @@
 ### Портфолио
 
 ### Обо мне
-  
+Пишу на JS и TS. Умею работать со всеми основными технологиями: Angular, Vue, React.
+
 ### Контакты
 * email: genja1988@inbox.ru
 * telegram: @EvgenII221
